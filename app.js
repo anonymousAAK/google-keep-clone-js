@@ -204,10 +204,10 @@ class App {
             <div class="toolbar">
               <img class="toolbar-color" data-id=${
                 note.id
-              } src="https://icon.now.sh/palette">
+              } src="https://cdn-icons-png.flaticon.com/512/8029/8029075.png">
               <img data-id=${
                 note.id
-              } class="toolbar-delete" src="https://icon.now.sh/delete">
+              } class="toolbar-delete" src="https://cdn-icons-png.flaticon.com/512/2907/2907762.png">
             </div>
           </div>
         </div>
